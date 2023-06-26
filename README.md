@@ -1,0 +1,2 @@
+# faultRewrite
+Rewrite inline-files.
